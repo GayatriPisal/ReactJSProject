@@ -1,0 +1,52 @@
+.footerDiv{
+    text-align: center
+}
+
+.headerDiv
+{
+    padding-top: 9px;
+    padding-bottom: 9px;
+    text-align: center;
+    font-size: 25px;
+    font: bold 50px verdana;
+    height: 70px;
+    background-color: rgb(72, 94, 168);
+}
+
+.navDiv, .mainDiv
+{
+    float: left;
+}
+
+.mainDiv
+{
+    height: 700px;
+    width: 85%;
+    background-color: rgb(170, 238, 235);
+}
+
+.navDiv
+{
+    height: 700px;
+    width: 15%;
+    background-color: rgb(196, 216, 228);
+}
+
+.blogTitle h1
+{
+  padding-left: 5px;
+}
+
+.blogDate span
+{
+  padding-left: 5px;
+  font: bold 20px;
+}
+
+.blogContent p
+{
+    padding-left: 2px;
+}
+
+
+
